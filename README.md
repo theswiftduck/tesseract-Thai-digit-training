@@ -1,0 +1,1 @@
+# tesseract-Thai-digit-training
