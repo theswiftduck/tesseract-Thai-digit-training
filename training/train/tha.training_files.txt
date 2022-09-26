@@ -1,0 +1,1 @@
+train/tha.TH_Sarabun_New.exp0.lstmf
